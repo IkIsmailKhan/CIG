@@ -1,0 +1,41 @@
+
+.footer-background-2 {
+    background-color: rgb(102, 102, 102);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.footer-app-store {
+    width: 6rem;
+    transition: transform 0.1s;
+    cursor: pointer;
+}
+
+.footer-app-store:hover {
+    transform: scale(1.1);
+}
+
+.footer-app-store-margin {
+    margin-right: 0.75rem;
+}
+
+.footer-master-card {
+    margin-right: 0.75rem;
+}
+
+.footer-link {
+    cursor: pointer;
+    font-weight: 400;
+}
+
+.footer-link-container {
+    margin-right: 4rem;
+}
+
+.faq:hover{
+    background-color: #98012e0e;
+}
+
+

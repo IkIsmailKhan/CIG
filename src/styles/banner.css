@@ -1,0 +1,28 @@
+
+
+.partner-background {
+    min-height: 46.875rem;
+    min-width: 100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)),
+        url("../assets/background.jpg");
+    background-size: cover;
+    background-position: 25% -3.5rem;
+    opacity: 2;
+}
+.banner-background-heading{
+    color: white;
+    font-weight: bold;
+    font-size: 4rem;
+    }
+
+    .banner-background-subheading{
+        color: white;
+        font-weight: bold;
+        font-size: 3rem;
+        }
+
+        .banner-background-content{
+            color: white;
+            font-weight: normal;
+            font-size: 1rem;
+        }
